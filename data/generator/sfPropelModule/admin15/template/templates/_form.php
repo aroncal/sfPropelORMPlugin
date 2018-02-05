@@ -1,7 +1,7 @@
 [?php use_stylesheets_for_form($form) ?]
 [?php use_javascripts_for_form($form) ?]
 
-<div class="sf_admin_form">
+<div class="col-md-6">
   [?php echo form_tag_for($form, '@<?php echo $this->params['route_prefix'] ?>') ?]
     [?php echo $form->renderHiddenFields(false) ?]
 
