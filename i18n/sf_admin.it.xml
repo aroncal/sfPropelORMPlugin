@@ -81,6 +81,10 @@
         <source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
         <target>[0] nessun risultato|[1] 1 risultato|(1,+Inf] %1% risultati</target>
       </trans-unit>
+      <trans-unit>
+        <source>Back to list</source>
+        <target>Torna alla lista</target>
+      </trans-unit>
 
       <!-- Pagination -->
       <trans-unit>

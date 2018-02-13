@@ -65,6 +65,10 @@
         <source>desc</source>
         <target>desc</target>
       </trans-unit>
+      <trans-unit>
+        <source>Back to list</source>
+        <target>Voltar à lista</target>
+      </trans-unit>
 
       <!-- Pagination -->
       <trans-unit>
