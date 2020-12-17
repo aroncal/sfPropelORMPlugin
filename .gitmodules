@@ -1,6 +1,8 @@
 [submodule "lib/vendor/propel"]
 	path = lib/vendor/propel
-	url = git://github.com/propelorm/Propel.git
+	url = https://github.com/aroncal/Propel.git
+	branch = sammic-custom
 [submodule "lib/vendor/phing"]
 	path = lib/vendor/phing
-    url = git://github.com/phingofficial/phing.git
+	url = https://github.com/aroncal/phing.git
+	branch = sammic-custom
